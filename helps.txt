@@ -1,0 +1,19 @@
+https://www.geeksforgeeks.org/insertion-in-an-avl-tree/ - codigo e explicação
+
+https://www.youtube.com/watch?v=Jj9Mit24CWk - video explicativo
+
+https://www.cs.bham.ac.uk/~jxb/DSA/dsa.pdf - um livro que pode ajudar
+
+https://www.programiz.com/dsa/avl-tree - sites com dicas e codigos
+
+https://www.educba.com/avl-tree-c-program/ - insert e exclusão com codigos
+
+https://www.youtube.com/watch?v=Wdy36bumttg - rotation
+
+Livro do cormem tbm pode ajudar, porém so possui pseudocodigo
+
+==========O MAIS IMPORTANTE DE TODOS============
+https://github.com/Marcosddf/algoritmoseestruturasdedados/blob/master/arvore_AVL.ipynb - githb com todos os codigos em c++
+
+==O MAIS IMPORTANTE AINDA====
+https://github.com/AlucardFAS/codigos/blob/master/SENAC%20Ciencia%20da%20Computa%C3%A7%C3%A3o%20-%20Computer%20Science/Estrutura%20de%20dados/ADO%204%20estrutura%20de%20dados/avl.c
